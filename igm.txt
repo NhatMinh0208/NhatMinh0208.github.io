@@ -21,8 +21,8 @@ Buttons
 		name:Make a bunny
 		desc:Click this little bunny to get more bunnies!
 		on click:anim icon wobble
-		on click:yield 1000000000 bunny
-		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
+		on click:yield 1000000000000 bunny
+		on click:yield 1000000000000 goldenCarrot
 		icon:stuff/bunny.png
 		no text
 		class:bigButton hasFlares
